@@ -1,0 +1,21 @@
+# Hi, I'm Rafi
+
+Full-stack developer in Bogor, Indonesia. I build TypeScript/SvelteKit front ends,
+Node and PHP back ends, and lately a lot of Postgres/Stripe billing logic and
+Cloudflare Workers.
+
+Open to work.
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [billing-engine](https://github.com/RafiSoemarno/billing-engine) | Multi-tenant billing service: plan quotas, idempotent metered usage, Stripe test-mode checkout and deduplicated webhooks | TypeScript · Express · Postgres · Docker |
+| [smartwaste](https://github.com/RafiSoemarno/smartwaste) | IoT reverse-vending recycling bin with a Laravel API, SvelteKit storefront and Android companion app | Laravel · SvelteKit · Android · Arduino |
+| [portfolio-sveltekit](https://github.com/RafiSoemarno/portfolio-sveltekit) | Portfolio site with interactive 3D scenes | SvelteKit · Three.js · Supabase |
+
+## Elsewhere
+
+- Email — [soemarnorafi@gmail.com](mailto:soemarnorafi@gmail.com)
+- LinkedIn — [in/rafi-soemarno](https://www.linkedin.com/in/rafi-soemarno)
+- Discord — `hazelnatto`
