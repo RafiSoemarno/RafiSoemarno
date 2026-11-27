@@ -1,12 +1,9 @@
 # Hi, I'm Rafi
 
-Full-stack developer in Bogor, Indonesia. I build TypeScript/SvelteKit front ends,
-Node and PHP back ends, and lately a lot of Postgres/Stripe billing logic and
-Cloudflare Workers.
+Full-stack developer based in Indonesia. I build TypeScript/SvelteKit front ends,
+Node and PHP back ends. Currently figuring out Cloudflare and agent-first development.
 
-Open to work.
-
-## Selected work
+## Some things I built
 
 | Project | What it does | Stack |
 | --- | --- | --- |
