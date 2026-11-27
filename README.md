@@ -15,8 +15,4 @@ Open to work.
 | [smartwaste](https://github.com/RafiSoemarno/smartwaste) | IoT reverse-vending recycling bin with a Laravel API, SvelteKit storefront and Android companion app | Laravel · SvelteKit · Android · Arduino |
 | [portfolio-sveltekit](https://github.com/RafiSoemarno/portfolio-sveltekit) | Portfolio site with interactive 3D scenes | SvelteKit · Three.js · Supabase |
 
-## Elsewhere
-
-- Email — [soemarnorafi@gmail.com](mailto:soemarnorafi@gmail.com)
-- LinkedIn — [in/rafi-soemarno](https://www.linkedin.com/in/rafi-soemarno)
-- Discord — `hazelnatto`
+Want to talk about something more casually? Reach out on Discord — `hazelnatto`
